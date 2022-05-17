@@ -124,18 +124,18 @@ plt.axis("off")
 ## Output:
 ### Smoothing Filters:
 #### i)  Using Averaging Filter:
-![output](./img/1.png)
+![output](./1.png)
 #### ii) Using Weighted Average Filter:
-![output](./img/2.png)
+![output](./2.png)
 #### iii) Using Gaussian Filter:
-![output](./img/3.png)
+![output](./3.png)
 #### iv) Using Median Filter:
-![output](./img/4.png)
+![output](./4.png)
 ### Sharpening Filters:
 #### i) Using Laplacian Kernel:
-![output](./img/5.png)
+![output](./5.png)
 #### ii) Using Laplacian Operator:
-![output](./img/6.png)
+![output](./6.png)
 
 
 ## Result:
